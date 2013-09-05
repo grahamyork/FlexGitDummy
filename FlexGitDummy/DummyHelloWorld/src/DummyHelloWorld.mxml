@@ -3,6 +3,8 @@
 			   xmlns:s="library://ns.adobe.com/flex/spark" 
 			   xmlns:mx="library://ns.adobe.com/flex/mx" minWidth="955" minHeight="600">
 	<fx:Declarations>
-		<!-- Place non-visual elements (e.g., services, value objects) here -->
+		<mx:Text>
+			Hello World!!
+		</mx:Text>
 	</fx:Declarations>
 </s:Application>
