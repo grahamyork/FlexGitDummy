@@ -4,7 +4,7 @@
 			   xmlns:mx="library://ns.adobe.com/flex/mx" minWidth="955" minHeight="600">
 	<fx:Declarations>
 		<mx:Text>
-			Hello World!!
+			Hello World Guten Morgen!!
 		</mx:Text>
 	</fx:Declarations>
 </s:Application>
